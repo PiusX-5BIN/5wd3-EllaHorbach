@@ -1,4 +1,5 @@
 # Het begin als programmeur 
-![beige-achtergrond](https://img.freepik.com/vrije-photo/papieren-achtergrond_53876-147734.jpg?w=2000)
-![achtergrond-programmeurs](https://pbs.twimg.com/media/Ejj6f_tX0AI3sea.jpg)
-![banner](https://cdn.pixabay.com/photo/2018/04/02/18/56/banner-3284786_960_720.png)
+
+
+![header](https://i.pinimg.com/564x/3b/e8/08/3be8089606e61c8023290e120340e340.jpg)
+
