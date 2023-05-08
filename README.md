@@ -109,33 +109,33 @@ De website bestaat uit minstens 3 delen:
 
 | Term                      | Definitie |
 | ------------------------- | --------- |
-| HTML                      |           |
-| CSS                       |           |
-| commentaar                |           |
-| server                    |           |
-| browser                   |           |
-| viewport                  |           |
-| client                    |           |
-| *.html                    |           |
-| index.html                |           |
-| tag                       |           |
-| tagnaam                   |           |
-| openingstag               |           |
-| sluitingstag              |           |
-| element                   |           |
-| zelfsluitend element      |           |
-| nesten                    |           |
-| inhoud                    |           |
-| indentatie                |           |
-| attribute                 |           |
-| attribute-key             |           |
-| attribute-value           |           |
-| block-level               |           |
-| inline                    |           |
-| structuur                 |           |
-| semantiek                 |           |
-| id attribute              |           |
-| class attribute           |           |
+| HTML                      | Een taal die gebruikt wordt om de structuur van een website te bepalen. HTML staat voor HyperText Markup Language.      |
+| CSS                       | Een taal die gebruikt wordt om de opmaak van een website te bepalen. CSS staat voor Cascading Style Sheets.         |
+| commentaar                |     Een stuk tekst in de code dat genegeerd wordt door de computer. Dit kan gebruikt worden om extra uitleg bij code te geven. Door het gebruik van commentaar krijg je ook een veel beter overzicht van je code. Commentaar kan je aangeven met // of /* .        |
+| server                    | Een computer met een eigen, uniek internet-adres waar alle code en bestanden van een website zijn opgeslagen.          |
+| browser                   |   Het programma waarmee je een website kunt bezoeken. Voorbeelden van browsers zijn: Firefox, Google Chrome,  Edge,...        |
+| viewport                  |  De ruimte in de browser waarin een website getoond wordt. De viewport varieert per apparaat en zal kleiner zijn op een mobiele telefoon dan op een computerscherm.           |
+| client                    |De computer van een gebruiker die surft naar een website.           |
+| *.html                    |        Met deze bestands-extensie worden pagina's van een website opgeslagen als document.   |
+| index.html                | De standaard startpagina van een website. Als je geen pagina meegeeft aan het adres van de website, wordt deze pagina automatisch geladen. Idex.html wordt vaak gebruikt als de home pagina van een website.          |
+| tag                       | Een kleiner dan (<) en groter dan (>) teken waartussen een codewoord staat.            |
+| tagnaam                   | Een codewoord dat inhoud aanduidt voor een bepaald doel. (dit staat tussen de <>)          |
+| openingstag               |Een kleiner dan (<) en groter dan (>) teken waartussen een codewoord staat, dat aanduidt waar de inhoud begint.           |
+| sluitingstag              | Een kleiner dan (<) en groter dan (>) teken waartussen een forward slash en codewoord staat, dat aanduidt waar de inhoud eindigt. Voorbeeld: Als je in html een paragraaf wilt eindige wordt dat gedaan met een sluitingstag (< /p)                |
+| element                   |   Een blok code, bestaande uit een openingstag, inhoud en sluitingstag.         |
+| zelfsluitend element      |   Een element dat de inhoud dat het aanduidt zelf toevoegt. Dit element heeft daarom enkel een openingstag. Een vorbeeld van een zelfsluitende tag in html is < br> (dit element zorgt voor en witregel)        |
+| nesten                    | Het insluiten van één element in een ander element. (denk aan Russische Matroesjka poppa die zijn ook in elkaar genest)          |
+| inhoud                    |   Alles dat tussen de openingstag en sluitingstag van een element staat.         |
+| indentatie                |    Het aantal spaties voor elke lijn code, dat aanduidt in welk element die lijn code is genest.       |
+| attribute                 | Een deel van de openingstag dat meer informatie geeft over het element.             |
+| attribute-key             |   De naam van het attribute. Dit staat aan de linkerkant van het = teken.        |
+| attribute-value           |  De waarde van het attribute. Dit staat aan de rechterkant van het = teken.              |
+| block-level               | Een type element dat steeds op de volgende lijn start en de volledige breedte in beslag neemt.          |
+| inline                    |  Een type element dat slechts zoveel breedte inneemt als het nodig heeft en tussen andere inhoud geplaatst kan worden.               |
+| structuur                 | De logische manier waarop de ontwikkelaar elementen heeft genest.                |
+| semantiek                 |    Het doel van een element, duidelijk gemaakt door de naam van het element.         |
+| id attribute              |  Geeft een unieke naam aan een element.          |
+| class attribute           |      Deelt een element in bij een groep elementen met gelijkaardige semantische waarde.       |
 | CSS                       |           |
 | selector                  |           |
 | declaratie                |           |
