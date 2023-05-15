@@ -11,3 +11,6 @@ In de tweede graad hebben we ons vooral bezig gehouden met de onderdelen van een
 
 Doorheen het jaar hebben we met java script een  comic book, een fight scene en een spel leren maken. Na java script hebben we leren werken met HTML en CSS. Met de programeer taal HTML kan je een website maken en CSS helpt je om de website op te maken. Hierbij hebben we een website voor een superheld gemaakt en een website voor je favoriete stad. Wil je meer weten over een van deze projecten? Zie pagina projecten.
 ## Wat kan informatica je bieden later?
+
+
+In de ICT-wereld volgen de veranderingen elkaar in hoog tempo op. Programmeertalen, platforms en technieken blijven vernieuwen. Om je werk te kunnen blijven doen, moet je in feite wel blijven leren. Zo ben je verzekerd van een afwisselende baan, waar je nooit op uitgekeken zult zijn. Dit voldoet meteen ook aan het gezegde: “Het is niet de sterkste soort die overleeft, noch de meest intelligente. Het is degene die zich het beste kan aanpassen.”
