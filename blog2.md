@@ -1,0 +1,13 @@
+![header](https://i.pinimg.com/564x/27/8b/f2/278bf2e7ba194be4c05914e2412c6a13.jpg)
+
+# Wat biedt informatica mij en hoe zie ik de toekomst?
+
+Aangezien ik in het vijfde jaar van het middelbaar zit moet ik langzaam een keuze maken wat ik graag zou willen doen later. In deze blog blik ik graag terug op waar ik tot nu toe veel aan heb gehad en wat dat eventueel zou brengen voor de toekomst.
+
+## Waar ik veel aan heb gehad...
+
+Buiten het gedeelte van het programeren heb ik heel veel gehad aan de dingen die ik in de tweede graad heb geleerd. Zo heb ik veel gehad aan de lessen van Excel, Word en Powerpoint. Zo weet ik meteen hoe ik aan een project wil beginnen en waar alle knoppen voor staan. Dit hielp mij niet alleen opweg voor informatica maar ook voor veel andere vakken. Zo heb ik nog altijd veel plezier in het opmaken van Powerpoint voor welk onderwerp dan ook. Ik begin met een idee dat ik later uitwerk naar een presentatie die ik met trots durf te presenteren. Terwijl ik vroeger heel veel angst had voor presentaties helpt mijn Powerpoint mij daar nu bij. Zo gebruik ik mijn Powerpoint als mijn leidraad wat ik vroeger veel minder deed. Hierdoor heb ik steeds meer plezier in het presenteren en vind ik het zeker niet erg om het in de toekomst te blijven doen.
+
+## Toekomst?
+
+Maar dan is nu natuurlijk de grote vraag wat ik in de toekomst wil gaan doen. Ik heb momenteel nog geen idee voor een precieze richting maar ik vind het wel leuk om verschillede dingen uit te proberen en dat te combineren met economisch gedeelte. Eerst afstuderen van het middelbaar en dan zien wat de toekomst brengt...
