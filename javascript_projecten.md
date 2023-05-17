@@ -9,3 +9,14 @@
 ![Screenshot](afbeeldingen/gegevens2_eerste_project_JS.png)
 
 ### een woordje uitleg
+
+
+## comicbook
+
+![Screenshot](afbeeldingen/afbeelding_comicbook.png)
+![Screenshot](afbeeldingen/afbeelding2_comicbook.png)
+![Screenshot](afbeeldingen/afbeelding3_comicbook.png)
+![Screenshot](afbeeldingen/afbeelding4_comicbook.png)
+![Screenshot](afbeeldingen/afbeelding5_comicbook.png)
+
+### een woordje uitleg 
