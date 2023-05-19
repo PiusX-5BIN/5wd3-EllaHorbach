@@ -20,3 +20,9 @@
 ![Screenshot](afbeeldingen/afbeelding5_comicbook.png)
 
 ### een woordje uitleg 
+
+## pacman
+
+![Screenshot](afbeeldingen/pacman.png)
+
+### een woordje uitleg 
