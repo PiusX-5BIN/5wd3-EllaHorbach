@@ -1,4 +1,4 @@
-![header](https://i.pinimg.com/564x/27/8b/f2/278bf2e7ba194be4c05914e2412c6a13.jpg)
+![Screenshot](afbeeldingen/header.png)
 
 # Is informatica iets voor mij?
 

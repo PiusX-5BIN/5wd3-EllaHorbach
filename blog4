@@ -1,0 +1,22 @@
+![Screenshot](afbeeldingen/header.png)
+
+# wat is CSS?
+Als je al het een en ander hebt vastgelegd met HTML kun je het nu gaan opmaken met CSS. Maar wat houdt CSS in en hoe gebruik je het?
+
+## Wat houdt het in?
+Cascading Style Sheets, afgekort CSS is een programeertaal die zorgt voor de opmaak van HTML bestanden.
+
+Aan de basis van elke pagina op een website zit een HTML bestand, dat zorgt voor alle inhoud die je te zien krijgt (tekst, afbeeldingen, links..) . Aan de hand van CSS kan je je HTML documenten een opmaak geven denk dan aan kleuren aanpassen, grootte van afbeeldingen, font-size, achtergrond afbeeldingen,...
+
+![Screenshot](afbeeldingen/voorbeeld_CSS.png)
+## Hoe wordt het gebruikt?
+
+Om CSS toetepassen op je HTML code is het handig om je op specifieke elementen te richten. Dit kan je doen door bijvoorbeeld id's en klasse te gebruiken. Zo kun je dezelfde HTML elementen op verschillende manieren vormgeven, afhankelijk van waar het op de website staat.
+
+Wil je meer weten over de verschillende elementen waarmee je de opmaak kunt wijzigen kijk dan is op de volgende sites: 
+https://www.kopstorm.com/blog/wat-is-css-en-hoe-werkt-het
+https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pc/challenge-colorful-creature
+
+
+
+
