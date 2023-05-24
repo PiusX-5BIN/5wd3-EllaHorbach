@@ -1,6 +1,6 @@
 ![Screenshot](afbeeldingen/header.png)
 
-# wat is HTML?
+# Wat is HTML?
 
 Om te programeren heb je een programeertaal nodig een voorbeeld hiervan is HTML. Maar wat houdt HTML in en hoe gebruik je het?
 
