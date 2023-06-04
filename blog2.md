@@ -1,4 +1,4 @@
-![Screenshot](https://i.pinimg.com/564x/dc/c9/80/dcc980c26d735a67cced6f4ac8c03efa.jpg)
+![Screenshot](afbeeldingen/header_blog2.png)
 
 # Wat biedt informatica mij en hoe zie ik de toekomst?
 
